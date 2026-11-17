@@ -1,58 +1,38 @@
-<div align="center">
+# TRỢ LÝ AI HỌC TẬP
 
-# 🌸🤖 TRỢ LÝ AI HỌC TẬP – STUDY BUDDY AI ✨📚
-*Người bạn đồng hành siêu cấp đáng yêu giúp cậu chinh phục mọi môn học!* 🎀💖
-
-![Status](https://img.shields.io/badge/Trạng_thái-Đang_phát_triển-ffb7c5?style=for-the-badge)
-![Subject](https://img.shields.io/badge/Môn_học-Tin_học_9-a2d2ff?style=for-the-badge)
-![Vibe](https://img.shields.io/badge/Vibe-100%25_Kawaii_&_Hữu_ích-cdb4db?style=for-the-badge)
-
-</div>
+**Dự án cuối Học kì I – Môn Tin học 9**
 
 ---
 
-## 🧸 1. Giới thiệu dự án (About)
-Chào mừng cậu đến với **Trợ lý AI học tập**! 🌷 Đây là dự án cuối học kì I môn Tin học của tụi mình. 
+## 1. Giới thiệu dự án
 
-Dự án xây dựng một **Chatbot thông minh** đóng vai trò như một *"gia sư ảo"* 24/7, giúp các bạn học sinh giải đáp thắc mắc về các môn học như **Toán, Ngữ văn, Tiếng Anh, Khoa học...** dựa trên nguồn tài liệu học tập chuẩn xác, dễ hiểu và siêu thân thiện! 💡✨
+**Trợ lý AI học tập** là dự án xây dựng một hệ thống chatbot ứng dụng trí tuệ nhân tạo (AI), đóng vai trò như một trợ giảng ảo hỗ trợ học sinh trong quá trình tự học và ôn tập. Hệ thống tập trung giải đáp các câu hỏi liên quan đến nội dung bài học thuộc các môn như Toán, Ngữ văn, Tiếng Anh và Khoa học dựa trên việc tra cứu thông tin từ nguồn tài liệu học tập chuẩn xác.
 
----
+## 2. Mục tiêu chức năng của sản phẩm
 
-## 🍓 2. Tính năng nổi bật (Features)
-* 📖 **Giải thích kiến thức dễ hiểu:** Biến những khái niệm khô khan trong sách giáo khoa thành lời giải thích ngắn gọn, có ví dụ minh họa sinh động.
-* ✏️ **Hướng dẫn giải bài tập từng bước:** Không chỉ đưa đáp án chép sẵn mà gợi ý tư duy từng bước để tụi mình tự hiểu bản chất bài toán.
-* 📝 **Tóm tắt & Ôn tập nhanh:** Tổng hợp ý chính bài học và tạo bộ câu hỏi trắc nghiệm mini giúp ôn bài trước giờ kiểm tra.
-* 🔍 **Tra cứu bám sát tài liệu:** Tìm kiếm thông tin chính xác từ tài liệu học tập được cung cấp, hạn chế tình trạng AI trả lời sai lệch.
+* **Giải thích kiến thức:** Làm rõ các khái niệm, lý thuyết trong chương trình học một cách mạch lạc, dễ hiểu kèm ví dụ minh họa.
+* **Hướng dẫn giải bài tập:** Phân tích và hướng dẫn phương pháp giải theo từng bước thay vì chỉ cung cấp đáp án cuối cùng, giúp học sinh nắm vững bản chất vấn đề.
+* **Tra cứu tài liệu học tập:** Tìm kiếm và trích xuất thông tin bám sát nguồn tài liệu được cung cấp nhằm hạn chế sai lệch kiến thức.
+* **Hỗ trợ ôn tập:** Tóm tắt nội dung trọng tâm của bài học và tạo câu hỏi trắc nghiệm kiểm tra kiến thức.
 
----
+## 3. Các Mục tiêu bài học (MTB) trọng tâm
 
-## 🎯 3. Mục tiêu bài học (MTB) của dự án
-Dự án tập trung chinh phục 5 mục tiêu cốt lõi sau:
-1. **MTB 1.1.a:** 🗣️ Khảo sát nhu cầu thực tế của học sinh & giáo viên để xây dựng bộ *User Story* chuẩn chỉnh.
-2. **MTB 1.2.e:** 🤝 Phân tích ranh giới hợp tác giữa **Con người** và **AI** (AI hỗ trợ gợi ý, con người kiểm chứng & quyết định).
-3. **MTB 1.3.a:** 📊 Xây dựng bộ tiêu chí đánh giá chất lượng Chatbot (Độ chính xác, Tốc độ, Tính dễ hiểu, Độ tin cậy).
-4. **MTB 1.3.e:** ⚖️ Giải quyết tình huống đạo đức khi dùng AI (Chống ỷ lại, lạm dụng AI làm bài hộ, đảm bảo trung thực học thuật).
-5. **MTB 1.4.c:** 🌱 Nhìn nhận sự thay đổi tích cực trong tư duy tự học và giải quyết vấn đề sau khi đồng hành cùng AI.
+Dự án tập trung thực hiện và minh chứng năng lực qua 5 mục tiêu bài học sau:
 
----
+| Mã MTB | Nội dung mục tiêu | Trọng tâm triển khai trong dự án |
+| :--- | :--- | :--- |
+| **MTB 1.1.a** | Thực hiện phỏng vấn các bên liên quan và tổng hợp dữ liệu để xây dựng *User Story* chi tiết. | Khảo sát học sinh và giáo viên qua Google Forms; tổng hợp dữ liệu trên Excel; xây dựng bảng *User Story* kèm tiêu chí chấp nhận và mức độ ưu tiên. |
+| **MTB 1.2.e** | Phân tích và đánh giá ranh giới linh hoạt giữa vai trò của con người và AI trong dự án đồng sáng tạo. | Phân định rõ nhiệm vụ của AI (gợi ý, tra cứu, tổng hợp) và vai trò của con người (thiết kế, kiểm chứng thông tin, ra quyết định cuối cùng). |
+| **MTB 1.3.a** | Xây dựng bộ tiêu chí đánh giá riêng biệt, phù hợp với loại hình AI và mục tiêu dự án. | Thiết lập thang đo đánh giá chất lượng chatbot dựa trên các tiêu chí: độ chính xác, tốc độ phản hồi, tính dễ hiểu và độ tin cậy của nguồn dữ liệu. |
+| **MTB 1.3.e** | Phân tích và đề xuất hướng giải quyết cho tình huống tiến thoái lưỡng nan về đạo đức khi dùng AI. | Nhận diện rủi ro AI cung cấp thông tin sai lệch hoặc học sinh lạm dụng AI để làm bài hộ; đề xuất quy tắc sử dụng và cơ chế kiểm chứng. |
+| **MTB 1.4.c** | Nhận diện và phân tích sự thay đổi trong tư duy cá nhân sau giai đoạn tương tác với AI. | Đánh giá sự chuyển biến về phương pháp tự học, tư duy phản biện và kỹ năng giải quyết vấn đề khi sử dụng công cụ AI. |
 
-## 🗂️ 4. Lộ trình thực hiện (Roadmap)
-- [x] **Giai đoạn 1 (Lập kế hoạch):** Đối chiếu MTB, chốt chủ đề *Trợ lý AI học tập* và nghiên cứu tài liệu tham khảo.
-- [ ] **Giai đoạn 2 (Thu thập & Xây dựng):** 
-  - Tạo Google Form khảo sát học sinh & giáo viên 📋
-  - Tổng hợp dữ liệu Excel & viết bảng User Story 📈
-  - Thiết kế Chatbot & thu thập minh chứng thực tế 🤖
-- [ ] **Giai đoạn 3 (Báo cáo):** Hoàn thiện slide thuyết trình và nộp sản phẩm cuối kì 🎓✨
+## 4. Quy trình thực hiện dự án
 
----
-
-## 🐾 5. Thành viên thực hiện (Team)
-* **Thực hiện:** Bạch Văn Minh Đức *(điền thêm tên bạn cùng nhóm nếu có)* 🍀
-* **Lớp:** 9 – Dự án Cuối Học Kì I Môn Tin Học 🏫
-
----
-
-<div align="center">
-  <i>✨ Học tập thông minh hơn, không áp lực hơn cùng Trợ lý AI! ✨</i><br>
-  <b>Made with 💖 & ☕</b>
-</div>
+1. **Giai đoạn 1 – Lập kế hoạch và xác định chủ đề:**
+   * Đọc yêu cầu và thực hiện đối chiếu (Mapping) mục tiêu bài cho cả 3 chủ đề dự án.
+   * Thống nhất lựa chọn chủ đề **Trợ lý AI học tập** và nghiên cứu tài liệu tham khảo về các công cụ AI.
+2. **Giai đoạn 2 – Thu thập dữ liệu và xây dựng minh chứng:**
+   * Thiết kế bộ câu hỏi khảo sát cho học sinh và giáo viên; thu thập và phân tích dữ liệu.
+   * Xây dựng bảng *User Story*, thử nghiệm mô hình chatbot và lưu trữ đầy đủ minh chứng cho từng MTB.
+3. **Giai đoạn 3
